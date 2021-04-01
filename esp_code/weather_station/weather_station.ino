@@ -54,7 +54,7 @@ void loop() {
     //   int httpResponseCode = http.POST("request body in text formate");   //Send the actual POST request
 
     http.addHeader("Content-Type", "application/json");             //Specify content-type header
-    int httpResponseCode = http.POST("{ \"temperature\" :  " +  Stemperature   +"   }");  //Send the actual POST request
+    int httpResponseCode = http.POST("{ \"temperature\" :  " +  Stemperature   + " , \"humidity\":" + Shumidity + " }"); //Send the actual POST request
 
     if (httpResponseCode > 0) {
 
