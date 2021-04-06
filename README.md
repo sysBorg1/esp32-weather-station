@@ -19,7 +19,7 @@ ESP32-Weather_Station
 ![TroubleShooting-Instrucation-1](TroubleShooting-Instrucation-1.PNG)
 ![TroubleShooting-Instrucation-2](TroubleShooting-Instrucation-2.PNG)
 
-# ESP32-Weather-Station-Complete-Diagram
+# ESP32-Weather-Station-And-UltraSonic-Complete-Diagram
 ![ESP32-Weather-Station-Diagram](ESP32-Weather-Station-Diagram.png)
 
 
